@@ -54,3 +54,41 @@
   186  git cherry-pick 38c2c57<br>
   187  history<br>
 </p>
+<p>
+(master)<br>
+cfed490 (HEAD -> master) 777<br>
+ead45c7 features<br>
+03b073a Modified piska<br>
+54df248 Create file piska-sosiska<br>
+9912a9b Second Change Pisun<br>
+8031467 First Pisun<br>
+<br>
+=========================================<br>
+<br>
+(dev)<br>
+4c49752 (HEAD -> dev) 777<br>
+03b073a Modified piska<br>
+54df248 Create file piska-sosiska<br>
+9912a9b Second Change Pisun<br>
+8031467 First Pisun<br>
+<br>
+=========================================<br>
+<br>
+(features/do_one)<br>
+6d6acec (HEAD -> features/do_one) 777<br>
+ead45c7 features<br>
+03b073a Modified piska<br>
+54df248 Create file piska-sosiska<br>
+9912a9b Second Change Pisun<br>
+8031467 First Pisun<br>
+<br>
+=========================================<br>
+<br>
+(hotfix/we_gonna_die)<br>
+38c2c57 (HEAD -> hotfix/we_gonna_die) 777<br>
+9912a9b Second Change Pisun<br>
+8031467 First Pisun<br>
+</p>
+
+
+
