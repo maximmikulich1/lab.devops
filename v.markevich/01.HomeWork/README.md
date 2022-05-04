@@ -1,18 +1,18 @@
-
-<h1 134  cd c: </h1>
-  135  cd Users/VALERA/Documents/
-  136  mk dir 01.HomeWorkLab
-  137  mkdir 01.HomeWorkLab
-  138  cd 01.HomeWorkLab/
-  139  git init
-  140  git config user.name 'v.markevich'
-  141  git config user.email 'mv@fn.by'
-  142  nano Pisun.txt
-  143  git add --all
-  144  git status
-  145  git commit -m 'First Pisun'
-  146  echo podsgsdgf >> Pisun.txt
-  147  git add .
+<p> 
+  134  cd c: <br>
+  135  cd Users/VALERA/Documents/ <br>
+  136  mk dir 01.HomeWorkLab <br>
+  137  mkdir 01.HomeWorkLab <br>
+  138  cd 01.HomeWorkLab/<br>
+  139  git init<br>
+  140  git config user.name 'v.markevich'<br>
+  141  git config user.email 'mv@fn.by'<br>
+  142  nano Pisun.txt<br>
+  143  git add --all<br>
+  144  git status<br>
+  145  git commit -m 'First Pisun'<br>
+  146  echo podsgsdgf >> Pisun.txt<br>
+  147  git add .<br>
   148  git commit -m 'Second Change Pisun'
   149  git checkout -b dev
   150  touch piska-sosiska.conf
@@ -53,5 +53,4 @@
   185  git checkout features/do_one
   186  git cherry-pick 38c2c57
   187  history
-</h1>
-
+</p>
