@@ -1,6 +1,5 @@
-<html>
-<h1>
-  134  cd c:
+
+<h1 134  cd c: </h1>
   135  cd Users/VALERA/Documents/
   136  mk dir 01.HomeWorkLab
   137  mkdir 01.HomeWorkLab
@@ -55,4 +54,4 @@
   186  git cherry-pick 38c2c57
   187  history
 </h1>
-</html>
+
